@@ -1,2 +1,0 @@
-# Lambda dependencies (if needed)
-# Add Python packages here for the Lambda function
