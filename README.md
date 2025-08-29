@@ -6,7 +6,7 @@ TypeScript CDK project for deploying the Telegram gaming assistant bot with Bedr
 - **Lambda**: telegram-reno-bot (Python 3.13, ARM64)
 - **DynamoDB**: telegram-bedrock-conversations with GSI
 - **API Gateway**: REST API with /webhook endpoint
-- **Bedrock Agent**: "Reno Gaming Assistant" with Claude 3.5 Sonnet
+- **Bedrock Agent**: "Reno Gaming Assistant" with Claude 3.7 Sonnet
 - **IAM**: Roles and policies for all services
 
 ## Features
